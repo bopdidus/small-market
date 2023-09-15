@@ -1,0 +1,5 @@
+.row>div,  mat-card{
+    width: 250px;
+    margin: 10px;
+    z-index: 0;
+}
